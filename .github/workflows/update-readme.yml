@@ -5,6 +5,8 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch: 
 
+permissions:
+  contents: write  # Grant write permissions to GitHub Actions
 
 jobs:
   update-readme:
@@ -17,9 +19,12 @@ jobs:
                -o stats.svg \
                "https://github-readme-stats.vercel.app/api?username=rizwan19947&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
       - name: Commit and Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add stats.svg
-          git commit -m "Update GitHub Stats"
-          git push
+          git commit -m "Update GitHub Stats" || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/rizwan19947/rizwan19947.git HEAD:main
+
