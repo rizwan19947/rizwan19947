@@ -36,9 +36,13 @@ I'm a **Software Engineer** with an experience in **Angular, TypeScript, Node.js
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan19947)
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwan19947&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,prs_merged" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwan19947&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
 </p>
 
 ---
