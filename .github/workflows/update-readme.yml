@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update GitHub Stats
+        run: |
+          curl -H "Authorization: token ${{ secrets.GH_STATS_PAT }}" \
+               -o stats.svg \
+               "https://github-readme-stats.vercel.app/api?username=rizwan19947&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add stats.svg
+          git commit -m "Update GitHub Stats"
+          git push
