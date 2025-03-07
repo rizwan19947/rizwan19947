@@ -38,7 +38,7 @@ I'm a **Software Engineer** with an experience in **Angular, TypeScript, Node.js
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwan19947&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwan19947&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
 </p>
 
 ---
