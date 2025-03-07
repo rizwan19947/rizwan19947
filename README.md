@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a **Software Engineer** with an experience in **Angular, TypeScript, Node.js and a bit of GraphQL**.
 
-- 💻 Currently working as a **Full-Stack Developer at Rewaa**
+- 💻 Working as a **Full-Stack Developer at Rewaa**
 - 🌱 Exploring SQL performance tuning, query optimization, and data warehousing for scalable analytics
 - 🔥 Currently tackling the challenge of overly-normalized data across microservices to build a responsive reporting solution.
 - 💬 Happy to chat about frontend performance, API design, and scalability
