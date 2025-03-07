@@ -37,8 +37,7 @@ I'm a **Software Engineer** with an experience in **Angular, TypeScript, Node.js
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwan19947&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan19947&layout=compact&theme=radical" alt="Top Languages" height="180px">
+  <img src="./stats.svg" alt="GitHub Stats">
 </p>
 
 ---
