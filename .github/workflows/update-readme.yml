@@ -17,7 +17,7 @@ jobs:
         run: |
           curl -H "Authorization: token ${{ secrets.GH_STATS_PAT }}" \
                -o stats.svg \
-               "https://github-readme-stats.vercel.app/api?username=rizwan19947&show_icons=true&theme=radical&include_all_commits=true"
+               "https://github-readme-stats.vercel.app/api?username=rizwan19947&show_icons=true&count_private=true&theme=radical&include_all_commits=true"
       - name: Commit and Push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
