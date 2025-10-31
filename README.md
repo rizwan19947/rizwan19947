@@ -6,8 +6,9 @@ I build performant, maintainable systems with a focus on scalability and clarity
 
 ### Current Role
 
-Software Engineer at dotCMS - building enterprise-grade solutions with the professional services team.
-Focused on monolithic and headless architectures, JS/TS and Velocity Template tooling, and front-end performance strategy for content-driven applications. 
+Software Engineer at dotCMS - building enterprise solutions with the professional services team.
+
+Focused on monolithic & headless architectures, JS/TS & VTL tooling, and front-end performance strategy for content-driven applications. 
 
 ### Technical Focus Areas
 
