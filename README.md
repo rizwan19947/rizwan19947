@@ -1,13 +1,38 @@
-# Hello there, I'm Rizwan 👋
+### Rizwan
 
-### 🚀 About Me
-I'm a **Software Engineer** with an experience in **Angular, TypeScript, Node.js and a bit of GraphQL**.
+**Software Engineer | Angular | Javascript | Typescript | NodeJS**
 
-- 💻 Working as a **Full-Stack Developer at Rewaa**
-- 🌱 Exploring SQL performance tuning, query optimization, and data warehousing for scalable analytics
-- 🔥 Currently tackling the challenge of overly-normalized data across microservices to build a responsive reporting solution.
-- 💬 Happy to chat about frontend performance, API design, and scalability
-- 📖 Fun fact: I love writing in my spare time—ask me about the horrors I can conjure up when inspiration strikes! 
+I build performant, maintainable systems with a focus on scalability and clarity. My work revoles around architecting clean UI layers, optimizing API integration, and enforcing standards that keep solutions sustainable as they grow.  
+
+### Current Role
+
+Software Engineer at dotCMS - building enterprise-grade solutions with the professional services team.
+Focused on monolithic and headless architectures, JS/TS and Velocity Template tooling, and front-end performance strategy for content-driven applications. 
+
+### Technical Focus Areas
+
+ - Angular and Typescript: Component architecture, RxJS patterns, change detection optimization
+ - NodeJS and GraphQL: Efficient API integration and backend-for-frontend design
+ - Performance: SQL tuning, payload and query optimization, and runtime profiling for scalable analytics
+ - Maintainability: Modular code structure, CI/CD alignment with frontend and backend workflows
+
+
+### What I Care About
+
+ - Solutions that deliver
+ - Code that scales
+ - Documentation that educates
+ - And most importantly, the rush from exploring new challenges
+
+
+
+### Quick Links 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-s-9419b6170)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:expectp@gmail.com)
+
+
+
 
 ---
 
@@ -35,9 +60,3 @@ I'm a **Software Engineer** with an experience in **Angular, TypeScript, Node.js
 </p>
 
 ---
-
-### 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-s-9419b6170)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:expectp@gmail.com)
-
-
