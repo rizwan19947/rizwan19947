@@ -1,6 +1,6 @@
 ### Rizwan
 
-**Software Engineer | Angular | Javascript | Typescript | NodeJS**
+**Software Engineer**
 
 I build performant, maintainable systems with a focus on scalability and clarity. My work revoles around architecting clean UI layers, optimizing API integration, and enforcing standards that keep solutions sustainable as they grow.  
 
@@ -12,7 +12,7 @@ Focused on monolithic & headless architectures, JS/TS & VTL tooling, and front-e
 
 ### Technical Focus Areas
 
- - Angular and Typescript: Component architecture, RxJS patterns, change detection optimization
+ - Angular/NextJS and Typescript: Component architecture, RxJS patterns, change detection optimization
  - NodeJS and GraphQL: Efficient API integration and backend-for-frontend design
  - Performance: SQL tuning, payload and query optimization, and runtime profiling for scalable analytics
  - Maintainability: Modular code structure, CI/CD alignment with frontend and backend workflows
